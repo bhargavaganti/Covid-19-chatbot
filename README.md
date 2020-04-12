@@ -1,4 +1,4 @@
-# Temperature Trivia
+# COVID Voice BOT
 
 ## Setup
 
